@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../front-end/project file/my-food-e-commerc-website/img"
+		},
+		{
+			"path": "../../../front-end/project file/my-food-e-commerc-website/png"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "food-e-com",
+		"liveServer.settings.port": 5501
+	}
+}
